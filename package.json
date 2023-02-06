@@ -1,18 +1,18 @@
 {
-  "name": "draco-pyodide",
-  "version": "2.0.0b3-0.22.1",
+  "name": "pyodide",
+  "version": "0.22.1",
   "description": "The Pyodide JavaScript package",
   "keywords": [
     "python",
     "webassembly"
   ],
-  "homepage": "https://github.com/cmudig/draco2",
+  "homepage": "https://github.com/pyodide/pyodide",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmudig/draco2"
+    "url": "https://github.com/pyodide/pyodide"
   },
   "bugs": {
-    "url": "https://github.com/cmudig/draco2/issues"
+    "url": "https://github.com/pyodide/pyodide/issues"
   },
   "license": "Apache-2.0",
   "devDependencies": {
