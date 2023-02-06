@@ -1,6 +1,6 @@
 {
   "name": "draco-pyodide",
-  "version": "2.0.0b3-0.22.1",
+  "version": "2.0.0b3-0.22.1-2",
   "description": "The Pyodide JavaScript package",
   "keywords": [
     "python",
@@ -9,10 +9,13 @@
   "homepage": "https://github.com/cmudig/draco2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmudig/draco2"
+    "url": "https://github.com/peter-gy/draco-pyodide.git"
   },
   "bugs": {
     "url": "https://github.com/cmudig/draco2/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "Apache-2.0",
   "devDependencies": {
